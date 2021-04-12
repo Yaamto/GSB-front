@@ -1,0 +1,13 @@
+.modal-dialog{
+    max-width: 90vw !important;
+}
+
+.modal-body{
+    padding: 2rem;
+}
+
+.fraishorsforfait{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
